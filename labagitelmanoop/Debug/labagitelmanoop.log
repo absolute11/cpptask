@@ -1,0 +1,3 @@
+﻿  Job.cpp
+C:\Users\gpro\Desktop\labagitelmanoop\labagitelmanoop\Job.cpp(10,10): warning C4101: boof: неиспользованная локальная переменная
+  labagitelmanoop.vcxproj -> C:\Users\gpro\Desktop\labagitelmanoop\Debug\labagitelmanoop.exe
